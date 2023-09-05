@@ -2,7 +2,10 @@
 
 > Example typing placeholders into the form using Cypress
 
-📺 Watch video [Type Placeholders Into The Form: manp and cypress-await example](https://youtu.be/Z4nDKbWMkJc)
+- 📺 Watch video [Type Placeholders Into The Form: manp and cypress-await example](https://youtu.be/Z4nDKbWMkJc)
+- 📺 Watch video [Set Up Cypress Test Replay On GitHub Actions](https://youtu.be/uB__3tHRHyA)
+
+## Tools used
 
 - [manpm](https://github.com/bahmutov/manpm)
 - [cypress-await](https://github.com/bahmutov/cypress-await)

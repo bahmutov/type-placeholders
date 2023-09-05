@@ -3,6 +3,7 @@ const { defineConfig } = require('cypress')
 const cyAwaitPreprocessor = require('cypress-await/src/preprocessor-sync-mode')
 
 module.exports = defineConfig({
+  projectId: 'xnjisi',
   e2e: {
     // baseUrl, etc
     supportFile: false,

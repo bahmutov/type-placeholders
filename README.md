@@ -1,4 +1,4 @@
-# type-placeholders [![ci](https://github.com/bahmutov/type-placeholders/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/bahmutov/type-placeholders/actions/workflows/ci.yml) ![cypress version](https://img.shields.io/badge/cypress-13.1.0-brightgreen)
+# type-placeholders [![ci](https://github.com/bahmutov/type-placeholders/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/bahmutov/type-placeholders/actions/workflows/ci.yml) ![cypress version](https://img.shields.io/badge/cypress-13.1.0-brightgreen) ![cypress-await version](https://img.shields.io/badge/cypress--await-1.4.2-brightgreen)
 
 > Example typing placeholders into the form using Cypress
 

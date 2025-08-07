@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^13.1.0",
+    "cypress": "^14.0.0",
     "cypress-await": "^1.4.2",
     "prettier": "^3.0.3"
   }
